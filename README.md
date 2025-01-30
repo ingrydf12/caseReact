@@ -1,8 +1,11 @@
-# React + Vite
+# 🛒 Case de Estudo: Carrinho de Compras
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é um estudo de caso sobre a implementação de um **CRUD (Create, Read, Update, Delete)** para um **carrinho de compras** usando **React**. O objetivo é explorar conceitos fundamentais do desenvolvimento web, como manipulação de estado, eventos e gerenciamento de listas.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades Implementadas
+- **Adicionar itens ao carrinho**
+- **Atualizar a quantidade de um item existente**
+- **Remover itens do carrinho**
+- **Calcular o total da compra**
+- **Aplicar código de desconto**
+- **Persistência do estado do carrinho**
